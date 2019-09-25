@@ -1,7 +1,5 @@
 # schizophrenia_messageboard_corpus
 
-## Files are still being uploaded...
-
 ### Corpus files
 
 Corpora consisting out of posts from different reddit subreddits and forum.schizophrenia.com.
